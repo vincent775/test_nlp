@@ -2,6 +2,7 @@
 
 #该文件是使用正则表达式实现识别日期的例子
 #比如 识别 六月12 、2016年八月、20160812、后天下午
+#自己测试使用
 
 import re
 from datetime import datetime,timedelta
